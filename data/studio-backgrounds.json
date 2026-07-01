@@ -1,0 +1,14 @@
+[
+  { "id": "none", "name": "Original", "colors": ["#f7f7fb", "#ffffff"], "accent": "#ff86bd", "motif": "none" },
+  { "id": "cotton-candy", "name": "Cotton Candy", "colors": ["#ffe5f2", "#dff4ff"], "accent": "#ff7ab8", "motif": "bubbles" },
+  { "id": "milk-studio", "name": "Milk Studio", "colors": ["#fffafc", "#f2eaff"], "accent": "#c7a7ff", "motif": "softbox" },
+  { "id": "peach-booth", "name": "Peach Booth", "colors": ["#fff0df", "#ffd7ea"], "accent": "#ff9b7a", "motif": "curtain" },
+  { "id": "sky-pop", "name": "Sky Pop", "colors": ["#e3f8ff", "#fff0f8"], "accent": "#72c7ee", "motif": "clouds" },
+  { "id": "matcha-cute", "name": "Matcha Cute", "colors": ["#ecfff5", "#fff7d6"], "accent": "#7ad7ac", "motif": "sparkles" },
+  { "id": "lavender-idol", "name": "Lavender Idol", "colors": ["#f3ebff", "#ffe2f4"], "accent": "#a889ff", "motif": "stars" },
+  { "id": "strawberry-film", "name": "Strawberry Film", "colors": ["#fff6f6", "#ffc8dd"], "accent": "#ff5f9b", "motif": "hearts" },
+  { "id": "mint-polaroid", "name": "Mint Polaroid", "colors": ["#eafffb", "#e7f2ff"], "accent": "#58cab6", "motif": "grid" },
+  { "id": "butter-dream", "name": "Butter Dream", "colors": ["#fff7c7", "#ffe2f0"], "accent": "#ffc857", "motif": "bubbles" },
+  { "id": "rose-studio", "name": "Rose Studio", "colors": ["#fff8fb", "#ffd3df"], "accent": "#df6f94", "motif": "curtain" },
+  { "id": "blue-hour", "name": "Blue Hour", "colors": ["#eaf8ff", "#d9dcff"], "accent": "#6e9bff", "motif": "softbox" }
+]
